@@ -1,0 +1,4 @@
+build/app/intermediates
+build/app/outputs
+build/ios/Debug-iphonesimulator
+Flutter
